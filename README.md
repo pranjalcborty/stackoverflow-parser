@@ -1,6 +1,6 @@
 ## Scrape Stack Overflow
 
-A simple scrapper for stack overflow, built with express.js. Available at http://assignment.pranjal.net
+A simple scrapper for stack overflow, built with express.js
 
 ## Features
 
